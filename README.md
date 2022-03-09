@@ -1,0 +1,2 @@
+# FingerprintScannerAnimationEffect
+Fingerprint Scanner Animation Effect
